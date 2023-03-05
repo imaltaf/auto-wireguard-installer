@@ -11,6 +11,6 @@ Run the script and follow the assistant:
 Once it ends, you can run it again to add more users, remove some of them or even completely uninstall WireGuard.
 
 ### I want to run my own VPN but don't have a server for that
- use oracle free 
+ [use oracle free Tier](https://www.oracle.com/cloud/free/)
 
 . Thanks!
