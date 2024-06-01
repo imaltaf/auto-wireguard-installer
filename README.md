@@ -39,7 +39,7 @@ This script will let you set up your own VPN server in no more than a minute, ev
     - Add more users
     - Remove existing users
     - Completely uninstall WireGuard
-
+    - open PORT ``51820`` udp
 ## No Server? No Problem!
 
 If you want to run your own VPN but don't have a server for that, consider using [Oracle Free Tier](https://www.oracle.com/cloud/free/).
